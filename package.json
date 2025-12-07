@@ -4,7 +4,8 @@
   "description": "proto server for bahaa-eddine",
   "main": "server.js",
   "scripts": {
-    "test": "run tests"
+    "test": "run tests",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",

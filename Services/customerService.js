@@ -1,7 +1,4 @@
-/**
- * Basic customer service implementation
- * Works with in-memory repository
- */
+
 class CustomerService {
   constructor(repository) {
     this.repository = repository; // Simple data repository/array

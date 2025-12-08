@@ -79,7 +79,7 @@ app.listen(PORT, () => {
   📍 Environment: ${process.env.NODE_ENV || 'development'}
   🌐 Port: ${PORT}
   🔗 Local: http://localhost:${PORT}
-  📊 API Base: http://localhost:${PORT}/api
+  📊 API Base: http://localhost:${PORT}/
   
   📋 Available Endpoints:
   ----------------------
